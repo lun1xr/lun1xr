@@ -1,4 +1,4 @@
-I am the programmer of all time ------------------------------------
+I am the programmer of all time --------------------------------------
   <img src="https://www.svgrepo.com/show/452110/swift.svg" alt="Swift" width="30" height="30">
   <img src="https://www.svgrepo.com/show/361365/terminal-bash.svg" alt="Bash" width="30" height="30">
   <img src="https://www.svgrepo.com/show/452234/java.svg" alt="Java" width="30" height="30">
